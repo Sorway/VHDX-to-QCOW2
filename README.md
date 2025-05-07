@@ -12,7 +12,7 @@ Ce script PowerShell permet de convertir des fichiers de disque virtuel VHDX (Hy
 ## 🔧 Prérequis
 
 - PowerShell 5.1+ ou PowerShell Core
-- [qemu-img](https://www.qemu.org/download/) doit être installé et accessible via le `PATH`
+- [qemu-img](https://www.qemu.org/download/) doit être installé
 
 ## 📥 Installation
 
